@@ -3,12 +3,9 @@
     "description": "Deploy ubuntuo on Heroku.",
     "keywords": ["Ubuntuo"],
     "env": {
-        "PORT": {
-            "description": "Ubuntuo port",
-            "value": 443
-        }
+        
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "website": "https://github.com/ozyb/ubuntuo",
     "repository": "https://github.com/ozyb/ubuntuo",
     "stack": "container"
 }
