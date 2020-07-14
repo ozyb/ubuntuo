@@ -1,7 +1,6 @@
 {
     "name": "ubuntuo",
     "description": "Deploy ubuntuo on Heroku.",
-    "keywords": ["ubuntuo"],
     "env": {
         "PORT": {
             "description": "ubuntuo port",
