@@ -1,9 +1,10 @@
 {
-    "name": "ubuntuo",
+    "name": "Ubuntuo",
     "description": "Deploy ubuntuo on Heroku.",
+    "keywords": ["Ubuntuo"],
     "env": {
         "PORT": {
-            "description": "ubuntuo port",
+            "description": "Ubuntuo port",
             "value": 443
         }
     },
