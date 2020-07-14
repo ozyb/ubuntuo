@@ -1,6 +1,6 @@
 #!/bin/sh
 
-code-server
+
 echo "Hello world"
 
 while [ 1 = 1 ] 
